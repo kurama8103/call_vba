@@ -1,4 +1,4 @@
-#call_vba
+# call_vba
 
 vbsファイルをダブルクリックすることで、同名のxlsmファイルのVBAを実行する。<br/>
 
